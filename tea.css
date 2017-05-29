@@ -1,0 +1,245 @@
+html{
+    height: 100%;
+    margin-top: -20px;
+    width: 100%;
+}
+body{
+    height: 100%;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+
+    
+    background-image: url("http://luxfon.com/images/201203/luxfon.com_6284.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+    margin-top: 15px;
+    
+    
+ 
+   
+    
+   
+}
+a{
+    text-decoration: none;
+    font-family: 'Neucha', cursive;
+    padding: 2px;
+    font-size: 160%;
+    margin-left:6px;
+    color:white;
+    margin: 10px;
+    
+    
+   
+    
+    
+}
+
+
+
+header{
+    text-align:right;
+    background-color:darkgreen;
+    height:90px;
+    width: 100%;
+    margin-top: -10px;
+    position: absolute;
+    
+    
+    	
+
+    
+    
+    
+    
+    
+}
+
+h1{
+    font-family: 'Neucha', cursive;
+    font-family: 'Marck Script', cursive;
+    text-align:left;
+    font-size: 300%;
+    margin-bottom: -42px;
+    margin-left: 10px;
+    font-weight: 100;
+    color: black;
+    
+    
+    
+    
+    
+}
+main{
+  width:1100px; 
+  margin:auto;
+  background:white;
+    height:100%
+}
+.priroda{
+    background-image: url(nathan-anderson-257238.jpg);
+    background-position: center;
+    background-size: cover;
+    width: 1080px;
+    height: 350px;
+    margin-top: 90px;
+    margin-left: 10px;
+    position: absolute;
+    background-attachment: fixed
+   
+   
+    
+}
+
+.text{
+      color: white;
+      font-family: 'Neucha', cursive;
+      font-size: 100px;
+      margin-left: 390px;
+      margin-top: 130px   
+}
+
+
+
+
+
+
+footer{
+    height: 100px;
+    width: 100%;
+    background-color: darkgreen;
+    position:absolute;
+    
+   
+}
+
+
+
+
+
+    
+}
+.contacti{
+    background-image: url(http://s1.iconbird.com/ico/2013/3/637/w128h12813939683291.png);
+    background-repeat: no-repeat;
+    width: 420px;
+    height: 100px;
+    display: 
+    
+    
+}
+
+.text6{
+    font-family: 'Neucha', cursive;
+    color: black;
+    font-size: 30px;
+    margin-left: 150px;
+    
+
+    
+}
+.tel{
+    font-family: 'Neucha', cursive;
+    color: black;
+    font-size: 25px;
+    display: 
+   
+   
+}
+.tel1{
+    font-family: 'Neucha', cursive;
+    color: black;
+    font-size: 25px;
+    margin-left: 120px;
+}
+.tel2{
+    font-family: 'Neucha', cursive;
+    color: black;
+    font-size: 25px;
+    margin-top: 5px;
+}
+.tel3{
+    font-family: 'Neucha', cursive;
+    color: black;
+    font-size: 25px;
+    margin-top: -30px;
+    margin-left: 130px;
+        
+}
+
+
+.navi{
+    background-image: url(http://s1.iconbird.com/ico/2013/3/637/w128h128139396832912.png);
+    background-repeat: no-repeat;
+    width: 370px;
+    height: 100px;
+    margin-left: 480px;
+    
+   
+    
+    
+    
+    
+}
+
+.text7{
+    font-family: 'Neucha', cursive;
+    color: black;
+    font-size: 30px;
+    margin-top: -100px;
+    margin-left: 120px
+    
+}
+.text8{
+    font-family: 'Neucha', cursive;
+    color: black;
+    font-size: 25px;
+    margin-left: 120px;
+    margin-top: 10px
+}
+
+
+
+
+.vk{
+    background-image:
+        url(http://s1.iconbird.com/ico/2013/11/476/w48h481383941993vkontakte.png);
+    background-repeat: no-repeat;
+    width: 250px;
+    height: 50px;
+    margin-left: 930px;
+    margin-top: -100px;
+    
+    
+}
+.ssilka{
+    font-family: 'Neucha', cursive;
+    color: black;
+    font-size: 25px;
+    margin-left: 60px;
+   
+}
+
+
+
+.faceb{
+    background-image: url(http://s1.iconbird.com/ico/2013/9/441/w48h481380212905facebook.png);
+    background-repeat: no-repeat;
+    width: 250px;
+    height: 50px;
+    margin-left: 930px;
+    
+ 
+}
+.ssilka2{
+    font-family: 'Neucha', cursive;
+    color: black;
+    font-size: 25px;
+    margin-left: 60px;
+    
+}
+.all{
+    float: right;
+}
+
